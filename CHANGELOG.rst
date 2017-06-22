@@ -1,6 +1,10 @@
 Release Notes and Change Log
 ============================
 
+1.8.2 (not released)
+^^^^^^^^^^^^^^^^^^^^^^^^
+* Honor SOURCE_DATE_EPOCH for reproducible builds
+
 1.8.1 (February 7, 2017)
 ^^^^^^^^^^^^^^^^^^^^^^^^
 * Pin archive-tar-minitar library to version 0.5.2 to work around a problem breaking `gem install fpm`
